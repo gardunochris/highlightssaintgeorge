@@ -94,15 +94,15 @@
     ],
     "favicon": false,
     "noImageResize": "",
-    "google-analytics": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org/\", \n  \"@type\": \"BreadcrumbList\", \n  \"itemListElement\": [{\n    \"@type\": \"ListItem\", \n    \"position\": 1, \n    \"name\": \"Book Online\",\n    \"item\": \"https://highlightsfresno.com/booking\"  \n  },{\n    \"@type\": \"ListItem\", \n    \"position\": 2, \n    \"name\": \"View Coupon\",\n    \"item\": \"https://highlightsfresno.com/index.html#features14-j\"  \n  },{\n    \"@type\": \"ListItem\", \n    \"position\": 3, \n    \"name\": \"Guarantee\",\n    \"item\": \"https://highlightsfresno.com/#content10-j\"  \n  },{\n    \"@type\": \"ListItem\", \n    \"position\": 4, \n    \"name\": \"Testimonials\",\n    \"item\": \"https://highlightsfresno.com/#content5-i\"  \n  },{\n    \"@type\": \"ListItem\", \n    \"position\": 5, \n    \"name\": \"Pricing\",\n    \"item\": \"https://highlightsfresno.com/#services3-2\"  \n  },{\n    \"@type\": \"ListItem\", \n    \"position\": 6, \n    \"name\": \"Map & Directions\",\n    \"item\": \"https://highlightsfresno.com/#contacts1-3\"  \n  },{\n    \"@type\": \"ListItem\", \n    \"position\": 7, \n    \"name\": \"Gallery\",\n    \"item\": \"https://highlightsfresno.com/#instagram-feed-block-i\"  \n  },{\n    \"@type\": \"ListItem\", \n    \"position\": 8, \n    \"name\": \"About Us\",\n    \"item\": \"https://highlightsfresno.com/#header3-e\"  \n  }]\n}\n</script>\n<script type=\"application/ld+json\">\n{\n\t\"@context\": \"https://schema.org\",\n\t\"@type\": \"HairSalon\",\n\t\"name\": \"Highlights Fresno\",\n\t\"address\": {\n\t\t\"@type\": \"PostalAddress\",\n\t\t\"streetAddress\": \"7484 N Fresno St\",\n\t\t\"addressLocality\": \"Fresno\",\n\t\t\"addressRegion\": \"CA\",\n\t\t\"postalCode\": \"93720\"\n\t},\n\t\"image\": \"https://highlightsfresno.com/assets/images/highlightslogo2-604x173.png\",\n\t\"email\": \"highlightsfresno@gmail.com\",\n\t\"telePhone\": \"(559) 492-9243\",\n\t\"url\": \"https://highlightsfresno.com/\",\n\t\"paymentAccepted\": [ \"cash\", \"check\", \"credit card\", \"paypal\" ],\n\t\"openingHours\": \"Mo,Tu,We,Th,Fr,Sa 8:30am-5:00pm\",\n\t\"openingHoursSpecification\": [ {\n\t\t\"@type\": \"OpeningHoursSpecification\",\n\t\t\"dayOfWeek\": [\n\t\t\t\"Monday\",\n\t\t\t\"Tuesday\",\n\t\t\t\"Wednesday\",\n\t\t\t\"Thursday\",\n\t\t\t\"Friday\",\n\t\t\t\"Saturday\"\n\t\t],\n\t\t\"opens\": \"8:30am\",\n\t\t\"closes\": \"5:00pm\"\n\t} ],\n\t\"geo\": {\n\t\t\"@type\": \"GeoCoordinates\",\n\t\t\"latitude\": \"36.845805\",\n\t\t\"longitude\": \"-119.783186\"\n\t},\n\t\"priceRange\":\"$$$\"\n},\n  \"aggregateRating\": {\n    \"@type\": \"AggregateRating\",\n    \"ratingValue\": \"5\",\n    \"reviewCount\": \"3\"\n  },\n\n}\n</script>\n\n<!-- Facebook Pixel Code -->\n<script>\n  !function(f,b,e,v,n,t,s)\n  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\n  n.callMethod.apply(n,arguments):n.queue.push(arguments)};\n  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\n  n.queue=[];t=b.createElement(e);t.async=!0;\n  t.src=v;s=b.getElementsByTagName(e)[0];\n  s.parentNode.insertBefore(t,s)}(window, document,'script',\n  'https://connect.facebook.net/en_US/fbevents.js');\n  fbq('init', '172763244004313');\n  fbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\n  src=\"https://www.facebook.com/tr?id=172763244004313&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Facebook Pixel Code -->\n<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-5TLJ954');</script>\n<!-- End Google Tag Manager -->\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-157226695-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-157226695-1');\n</script>\n\n<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5TLJ954\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->\n",
-    "siteUrl": "undefined",
+    "google-analytics": "",
+    "siteUrl": false,
     "uniqCompNum": 45,
     "versionPublish": "6.0.6",
     "screenshot": "screenshot.png",
     "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
+    "sitemapSwitcherAuto": "on",
     "cookiesAlert": false,
     "gdpr": false,
     "chatbutton": {},
@@ -120,7 +120,8 @@
         "meta_descr": "Balayage Highlights St. George is Southern Utah's #1 Luxury Hair Salon Focused Exclusively on Balayage, Highlights, Platinum Blonde, Ombre, Hair Extensions, & \"Fix My Hair\" Color Correction.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/talynn-square-logo-192x192.png"
       },
       "components": [
         {
